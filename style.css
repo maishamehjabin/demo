@@ -1,7 +1,7 @@
 .rongnam{
     color: rgb(238, 126, 229);
 }
-{
+section{
     display: flex;
 }
 h1{
@@ -42,4 +42,34 @@ background-color: lightpink;
 padding: 20px 30px 30px;
 margin: 30px;
 border-radius: 30px;
+}
+.under1{
+    width: 50%;
+    height: 500px;
+    padding: 2px;
+   
+    margin: auto;
+    border-radius: 30px;
+    border: 1px;
+
+}
+.under2{
+    width: 50%;
+    height: 500px;
+    padding: 2px;
+   
+    margin: auto;
+    border-radius: 30px;
+    border: 1px;
+
+}
+.bimage{
+    background-image: url(logos/earth.jpg);
+    background-repeat: no-repeat;
+}
+#color1{
+    color: indianred;
+}
+#color2{
+    color:seagreen;
 }

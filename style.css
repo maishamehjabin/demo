@@ -1,0 +1,45 @@
+.rongnam{
+    color: rgb(238, 126, 229);
+}
+section{
+    display: flex;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+}
+p{
+    font-family: 'Moon Dance', cursive;
+    font-size: 30px;
+    font-weight: 200%;
+}
+.half-width{
+    width: 100%;
+    margin: 40px;
+   
+}
+.half-width img{
+    width: 80%;
+}
+h1{
+    font-size: 40px;
+}
+.link1{
+    border-radius: 20px;
+    padding: 20px 50px;
+    text-decoration: none;
+    background-image: linear-gradient(beige,rgb(235, 174, 62));
+}
+.blog{
+    background-color: lavender;
+    border: 5px;
+    padding: 40px;  
+    border-radius: 30px;
+    margin: 30px;
+}
+.arektar{
+    border: 5px;
+background-color: lightpink;
+padding: 20px 30px 30px;
+margin: 30px;
+border-radius: 30px;
+}
